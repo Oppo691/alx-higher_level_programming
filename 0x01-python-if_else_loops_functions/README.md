@@ -1,1 +1,1 @@
-README > Python if,else loops function
+Python - if/else, loops, functions > README.md
